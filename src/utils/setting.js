@@ -1,0 +1,1 @@
+export const USERLOGIN = 'thinhnpse140764@fpt.edu.vn';
